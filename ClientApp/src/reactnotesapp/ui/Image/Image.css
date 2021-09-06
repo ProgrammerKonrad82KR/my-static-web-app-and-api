@@ -1,0 +1,16 @@
+﻿.Label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.ImageElement {
+    outline: none;
+    border: 1px solid #ccc;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
